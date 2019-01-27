@@ -15,7 +15,7 @@ https://getcomposer.org/download/
 NodeJS
 https://nodejs.org/en/
 
-GIT
+GIT\n
 https://git-scm.com/downloads
 
 Cmder
